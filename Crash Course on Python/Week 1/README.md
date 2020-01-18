@@ -1,6 +1,6 @@
 Learning Objectives
-Understand what Python is
-Understand what scripting is
-Understand why Python is relevant to IT
-Understand the role of automation in IT
-Run your first Python script
+1. Understand what Python is
+2. Understand what scripting is
+3. Understand why Python is relevant to IT
+4. Understand the role of automation in IT
+5. Run your first Python script
